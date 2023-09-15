@@ -7,7 +7,7 @@ from handlers import main_router
 # Инициализируем логгер
 logger = logging.getLogger(__name__)
 
-TOKEN = ""
+TOKEN = "6409412666:AAF-sOG7BToyG1L-mEd6TVuQEDTsBlGnSj0"
 
 
 # Функция конфигурирования и запуска бота
